@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class phoneBook {
-
     Map<String, addContact> phoneBook = new HashMap<>();
 
     public void addContact(String name, String phoneNum) {
