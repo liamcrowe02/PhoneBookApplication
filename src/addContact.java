@@ -3,10 +3,10 @@ public class addContact {
     String name;
     String phoneNum;
 
-        public addContact(String name, String phoneNum) {
-            this.name = name;
-            this.phoneNum = phoneNum;
-        }
+    public addContact(String name, String phoneNum) {
+        this.name = name;
+        this.phoneNum = phoneNum;
+    }
 
     public String getName() {
         return name;
